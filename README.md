@@ -11,11 +11,11 @@ The focus of the project was to develop my own hypotheses, use advanced analytic
 - Sourcing open data
 - Data wrangling
 - Data merging
-- Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots, and categorical plots);
-- Geospatial analysis using a shapefile;
-- Supervised machine learning through regression analysis;
-- Unsupervised machine learning through cluster analysis;
-- Time-series analysis;
+- Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots, and categorical plots)
+- Geospatial analysis using a shapefile
+- Supervised machine learning through regression analysis
+- Unsupervised machine learning through cluster analysis
+- Time-series analysis
 - Analysis narrative (storytelling) and final results
 
 For this project, I leveraged the following Python libraries:
