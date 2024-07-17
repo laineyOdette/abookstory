@@ -39,10 +39,12 @@ https://www.kaggle.com/datasets/ktochylin/world-countries/dat
 - Accessed via Kaggle on July 8, 2024.
 
 ## Final Project Presentation 
-A PDF of the final project presentation is in the "Sent to Client" folder her on Github.
+A PDF of the final project presentation is in the "Sent to Client" folder here on Github.
 
 You can also review the storyboard on Tableau Public:
 https://public.tableau.com/app/profile/lainey.odette/viz/ABookStory/ABookStory
+
+Please note that the storyboard doesn’t contain every step in the analysis, only those relevant to the final results.
 
 ## Project Note
 Project created for Career Foundry "Become a Data Analyst" course.
